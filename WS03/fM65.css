@@ -1,5 +1,5 @@
 h2 {
-    color: black;
+    color: rgb(74, 1, 1);
 }
 
 p {
@@ -7,7 +7,7 @@ p {
 }
 
 body {
-    background-color: lightgray;
+    background-color: rgb(141, 135, 135);
 }
 
 h1 {
@@ -17,8 +17,8 @@ h1 {
 .content-box {
     padding: 20px;
     margin: 10px;
-    background-color: #f0f0f0;
-    border: 1px solid #ccc;
+    background-color: #f39d9d;
+    border: 1px solid #91ecb7;
 }
 
 table {
@@ -28,13 +28,13 @@ table {
 
 th,
 td {
-    border: 1px solid #ddd;
+    border: 1px solid #926f6f;
     padding: 8px;
     text-align: left;
 }
 
 th {
-    background-color: #f2f2f2;
+    background-color: #cbbcbc;
 }
 
 form {
@@ -50,13 +50,13 @@ label {
 input[type="text"],
 input[type="email"] {
     padding: 8px;
-    border: 1px solid #ddd;
+    border: 1px solid #2f0101;
     border-radius: 4px;
 }
 
 input[type="submit"] {
     background-color: #4CAF50;
-    color: white;
+    color: rgb(153, 184, 227);
     padding: 10px;
     border: none;
     border-radius: 4px;
@@ -64,11 +64,11 @@ input[type="submit"] {
 }
 
 input[type="submit"]:hover {
-    background-color: #45a049;
+    background-color: #a1f9a5;
 }
 
 .transition-button {
-    background-color: plum;
+    background-color: rgb(87, 57, 87);
     padding: 20px 50px;
     border: none;
     cursor: pointer;
@@ -76,13 +76,13 @@ input[type="submit"]:hover {
 }
 
 .transition-button:hover {
-    background-color: lightcoral;
+    background-color: rgb(110, 75, 75);
 }
 
 .animation-box {
     width: 50px;
     height: 50px;
-    background-color: lightgreen;
+    background-color: rgb(114, 63, 135);
     position: relative;
     animation: move 2s infinite alternate;
 }
@@ -98,11 +98,11 @@ input[type="submit"]:hover {
 }
 
 .pseudo-list li:nth-child(odd) {
-    background-color: lightgray;
+    background-color: rgb(141, 87, 87);
 }
 
 .pseudo-list li:nth-child(even) {
-    background-color: white;
+    background-color: rgb(93, 59, 59);
 }
 
 .filter-image {
@@ -126,5 +126,5 @@ input[type="submit"]:hover {
     position: absolute;
     left: 0;
     top: 0;
-    color: lightgray;
+    color: rgb(72, 58, 58);
 }
