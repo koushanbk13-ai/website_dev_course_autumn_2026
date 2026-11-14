@@ -1,5 +1,5 @@
 h2 {
-    color: black;
+    color: rgb(82, 40, 40);
 }
 
 p {
@@ -7,7 +7,7 @@ p {
 }
 
 body {
-    background-color: lightgray;
+    background-color: rgb(73, 55, 55);
 }
 
 h1 {
@@ -17,8 +17,8 @@ h1 {
 .content-box {
     padding: 20px;
     margin: 10px;
-    background-color: #f0f0f0;
-    border: 1px solid #ccc;
+    background-color: #fbe3e3;
+    border: 1px solid #7d6174;
 }
 
 table {
@@ -28,13 +28,13 @@ table {
 
 th,
 td {
-    border: 1px solid #ddd;
+    border: 1px solid #654e4e;
     padding: 8px;
     text-align: left;
 }
 
 th {
-    background-color: #f2f2f2;
+    background-color: #8f8383;
 }
 
 form {
@@ -50,13 +50,13 @@ label {
 input[type="text"],
 input[type="email"] {
     padding: 8px;
-    border: 1px solid #ddd;
+    border: 1px solid #635959;
     border-radius: 4px;
 }
 
 input[type="submit"] {
     background-color: #4CAF50;
-    color: white;
+    color: rgb(92, 84, 84);
     padding: 10px;
     border: none;
     border-radius: 4px;
