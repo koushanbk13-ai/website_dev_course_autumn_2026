@@ -98,11 +98,11 @@ input[type="submit"]:hover {
 }
 
 .pseudo-list li:nth-child(odd) {
-    background-color: lightgray;
+    background-color: rgb(241, 190, 190);
 }
 
 .pseudo-list li:nth-child(even) {
-    background-color: white;
+    background-color: rgb(122, 94, 94);
 }
 
 .filter-image {
@@ -126,5 +126,5 @@ input[type="submit"]:hover {
     position: absolute;
     left: 0;
     top: 0;
-    color: lightgray;
+    color: rgb(8, 48, 29);
 }
